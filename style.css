@@ -333,11 +333,11 @@ footer > #logo path{
         display: initial;
     }
     #page-header {   
-        font-size: 38px; 
+        font-size: 35px; 
         margin: 40% 0 0 0; 
     }
     #arrow-down {
-        margin: 5% auto 0;
+        margin: 5% auto 0; 
     }
     #grid-section {
         grid-template-columns: 1fr;
