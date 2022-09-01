@@ -332,16 +332,16 @@ footer > #logo path{
     #menuBtn {
         display: initial;
     }
-    #page-header {  
+    #page-header {   
         font-size: 38px; 
-        margin: 12% 0 0 0; 
+        margin: 40% 0 0 0; 
     }
     #arrow-down {
         margin: 5% auto 0;
     }
     #grid-section {
         grid-template-columns: 1fr;
-        grid-template-rows: .75fr 1fr .75fr 1fr 1.5fr 1.5fr;  
+        grid-template-rows: .8fr 1fr .8fr 1fr 1.5fr 1.5fr;  
         height: 400vh;    
     }   
     .grid-information { 
@@ -364,13 +364,20 @@ footer > #logo path{
         background-size: cover;
         background-position: center; 
     }
+    .text-with-image {
+        gap: 20px;
+        padding: 0 20% 8%;   
+        height: 100vh; 
+    }
     #cherry {
         background: url(images/mobile/image-graphic-design.jpg);
         background-size: cover;
+        background-position: center;
     }
     #orange {
         background: url(images/mobile/image-photography.jpg);
         background-size: cover;
+        background-position: center;
     } 
     #testimonial-section {
         height: auto;
@@ -400,7 +407,7 @@ footer > #logo path{
         margin: 0 0 4px; 
     }
     #images-section {
-        height: 65vh; 
+        height: 50vh; 
         grid-template-columns: repeat(2, 1fr);
         grid-template-rows: repeat(2, 1fr);
     }
