@@ -426,6 +426,9 @@ footer > #logo path{
     #sugar-cubes {
         background: url(images/mobile/image-gallery-sugar-cubes.jpg);
     }
+    footer {
+        padding: 10% 0 0 0;
+    }
     #footer-links {
         width: 100%;  
         justify-content: space-around;    
