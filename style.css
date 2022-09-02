@@ -10,7 +10,7 @@ body {
     background-repeat: no-repeat;
     background-size: cover; 
     background-position: center bottom ;
-    height: 85vh;
+    height: 100vh;
 } 
 #hero-section header {
     display: flex; 
@@ -38,7 +38,7 @@ body {
     font-family: 'Barlow';
     font-size: 14px;
 }
-#contact-button {
+#contact-button { 
     background-color: white;
     font-family: 'Fraunces';
     font-weight: 700; 
@@ -55,10 +55,10 @@ body {
 #page-header { 
     text-align: center;
     color: white;
-    font-family: 'Fraunces';
     font-size: 40px;
     font-weight: 900;  
-    margin: 2% 0 0 0; 
+    margin: 9% 0 0 0;   
+    font-family: 'Fraunces';     
 }
 #arrow-down {
     display: block;
